@@ -1,0 +1,14 @@
+{
+  "name": "ej1-comentarios",
+  "version": "1.0.0",
+  "description": "![Alt text](image.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "standard": "^17.1.0"
+  }
+}
